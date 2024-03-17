@@ -1,17 +1,17 @@
 # Line_follower_robot_with_mobile_application 
 <h2>About program:</h2>
 The goal of my Engineering Thesis was to build the Line follower robot and implement code for it, which would allow it to drive on the track. In this repository
-you can find the code for Line Follower robot written for Arduino and also sketch of mobile application, which is used to send PID controller settings via Bluetooth module 
+you can find the code for Line follower robot written for Arduino and also sketch of mobile application, which is used to send PID controller settings via Bluetooth module 
 placed on robot and implement these settings inside robot's source code.
 <h2>How to run it:</h2>
-To run the code for Line Follower you need to install Arduino IDE. Later you need to connect computer with Arduino and upload the code to it.
+To run the code for Line follower you need to install Arduino IDE. Later you need to connect computer with Arduino and upload the code into it.
 To run mobile application you need to upload it for a mobile phone containing Android software.
-<h2>Code for Line Follower in shortcut:</h2>
+<h2>Code for Line follower in shortcut:</h2>
 
 1. Attach libraries,
 2. Declare global variables,
 3. Define aliases,
-4. Set the pins in the correct states inside void setup() function,
+4. Set the pins into the correct states inside void setup() function,
 5. Set speed of data transmission,
 6. Calibrate the optocouplers,
 7. Map the values ​​read by optocouplers,
