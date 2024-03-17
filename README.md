@@ -1,4 +1,4 @@
-# BSc_Thesis
+# Line_follower_robot_with_mobile_application 
 <h2>About program:</h2>
 The goal of my Engineering Thesis was to build and implement code for Line follower robot. In this repository
 you can find the code of Line Follower robot written for Arduino, which allows robot to drive correctly on the track, and also sketch of mobile application,
